@@ -67,7 +67,7 @@ of summary data.
 - Database:
   - ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 - #### Data-Set for training:
-  - <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/Machine_Learning/heart.csv">Click here for DATA-SET</a>
+  - <a href="https://github.com/Parthadee/Healthcare-Research/blob/35c5a62d91b0eb3403266252757e760b367ac15f/1%20heart_disease_dataset.csv">Click here for DATA-SET</a>
 - #### IDE:
   - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   - ![Jupyter](https://img.shields.io/badge/jupyter-white.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
