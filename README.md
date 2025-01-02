@@ -78,7 +78,7 @@ of summary data.
 Clone the project
 
 ```bash
-[  git clone https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System](https://github.com/Parthadee/Healthcare-Research.git)
+  git clone https://github.com/Parthadee/Healthcare-Research.git
 ```
 
 ## Model Training(Machine Learning)
