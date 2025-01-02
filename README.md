@@ -70,6 +70,7 @@ of summary data.
   - <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/Machine_Learning/heart.csv">Click here for DATA-SET</a>
 - #### IDE:
   - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  - ![Jupyter](https://img.shields.io/badge/jupyter-white.svg?style=for-the-badge&logo=jupyter&logoColor=orange)
 - #### OS used for testing:
   - ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -81,24 +82,5 @@ Clone the project
 
 ```bash
   git clone https://github.com/Parthadee/Healthcare-Research.git
-```
-
-## Model Training(Machine Learning)
-
-```javascript
-def prdict_heart_disease(list_data):
-    csv_file = Admin_Helath_CSV.objects.get(id=1)
-    df = pd.read_csv(csv_file.csv_file)
-
-    X = df[['age','sex','cp','trestbps','chol','fbs','restecg','thalach','exang','oldpeak','slope','ca','thal']]
-    y = df['target']
-    X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8, random_state=0)
-    nn_model = GradientBoostingClassifier(n_estimators=100,learning_rate=1.0,max_depth=1, random_state=0)
-    nn_model.fit(X_train, y_train)
-    pred = nn_model.predict([list_data])
-    print("Neural Network Accuracy: {:.2f}%".format(nn_model.score(X_test, y_test) * 100))
-    print("Prdicted Value is : ", format(pred))
-    dataframe = str(df.head())
-    return (nn_model.score(X_test, y_test) * 100),(pred)
 ```
 
