@@ -1,3 +1,4 @@
+<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/Heart-Disease-Prediction-System-banner.png" />
 ## Abstract 
 <p> 
   Now days, Heart disease is the most common disease. But, unfortunately the treatment of heart
