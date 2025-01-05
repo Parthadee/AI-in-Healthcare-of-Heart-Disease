@@ -1,4 +1,4 @@
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/Heart-Disease-Prediction-System-banner.png" />
+<img src="https://github.com/Parthadee/Healthcare-Research/blob/045f1313e4ac812230041a3e275c2706503b94fe/machine%20banner.jpg" />
 
 ## Abstract 
 <p> 
@@ -80,7 +80,7 @@ We introduce the following Machine Learning algorithms used in predicting heart 
 Clone the project
 
 ```bash
-  git clone https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System
+  git clone https://parthadee.github.io/Healthcare-Research/
 ```
 
 ## Model Training(Machine Learning)
@@ -103,23 +103,5 @@ def prdict_heart_disease(list_data):
 ```
 
 ## Output Screen-shots
-When the application is runned then, a Welcome Page pops-up
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/WelcomePage.png" />
-
-Admin Dash-board:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/AdminDashboard.png" />
-
-Entering Heart Details to check our Health:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/AddHeartDetail.png" />
-
-Since these details are stored in the Data-base, so we can also retrieve past results:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/SearchLogs1.png" />
-
-To view our own details:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/ViewMyDetaile.png" />
-
-If a user doesn't understand how to use the application then he can:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/IntroductionViewVideo.png" />
-
-To view registered Doctor information:
-<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/DoctorRecords.png" />
+Dashboard in PoweBI
+<img src="https://github.com/Parthadee/Healthcare-Research/blob/045f1313e4ac812230041a3e275c2706503b94fe/4%20Dashboard%20Image.jpg" />
