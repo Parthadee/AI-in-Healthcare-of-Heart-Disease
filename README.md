@@ -1,4 +1,4 @@
-<img src="https://github.com/Parthadee/Healthcare-Research/blob/045f1313e4ac812230041a3e275c2706503b94fe/machine%20banner.jpg" />
+<img src="Data Image/machine banner.jpg" />
 
 ## Abstract 
 <p> 
@@ -102,4 +102,4 @@ def prdict_heart_disease(list_data):
 
 ## Output Screen-shots
 Dashboard in PoweBI
-<img src="https://github.com/Parthadee/Healthcare-Research/blob/045f1313e4ac812230041a3e275c2706503b94fe/4%20Dashboard%20Image.jpg" />
+<img src="Data Image/4 Dashboard Image.jpg" />
