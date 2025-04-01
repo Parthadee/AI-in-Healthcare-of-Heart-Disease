@@ -1,4 +1,4 @@
-# Optimizing Heart Disease Prediction with Machine Learning Algorithms
+#  Research in Heart Disease Prediction Using AI (Computer Vision)
 <img src="Data Image/machine banner.jpg" />
 
 ## Abstract 
